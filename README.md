@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 💬 Ask me about anything in general with software development and let's see if I can help
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abdessamad-jallal/)
 <!--
 **AbdessamadJALLAL/AbdessamadJALLAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
